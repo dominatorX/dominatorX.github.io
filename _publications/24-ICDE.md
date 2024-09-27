@@ -2,7 +2,7 @@
 title: "Cross-Domain-Aware Worker Selection with Training for Crowdsourced Annotation"
 collection: publications
 category: conferences
-permalink: 'https://doi.org/10.1109/icde60146.2024.00026'
+doi: 'https://doi.org/10.1109/icde60146.2024.00026'
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-02
 venue: 'KDD'
