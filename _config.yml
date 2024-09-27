@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WANG Jiachuan 王嘉川"
+title                    : "WANG Jiachuan"
 title_separator          : "-"
 name                     : &name "WANG Jiachuan"
 description              : &description "homepage"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://dominatorX.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self1.png"
-  name             : "WANG Jiachuan 王嘉川"
+  avatar           : "profile.png"
+  name             : "WANG Jiachuan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc in HKUST//LLM, AI4Science"
+  bio              : "Postdoc in HKUST"
   location         : "Hong Kong SAR, China"
   employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
@@ -36,19 +36,19 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6473-8221"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -75,10 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  conferences:
-    title: 'Conference Papers'
+  books:
+    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -127,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
