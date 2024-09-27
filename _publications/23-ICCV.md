@@ -8,5 +8,5 @@ date: 2023-01-01
 venue: 'ICCV'
 slidesurl: 'https://dominatorx.github.io/files/23ICCV-s.pdf'
 paperurl: 'https://dominatorx.github.io/files/23ICCV-p.pdf'
-citation:  Jiachuan Wang; Shimin Di*; Lei Chen; Charles Wang Wai Ng
+citation:  <b>Jiachuan Wang</b>; Shimin Di*; Lei Chen; Charles Wang Wai Ng
 ---

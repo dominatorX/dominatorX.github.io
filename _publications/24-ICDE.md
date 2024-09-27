@@ -8,5 +8,5 @@ date: 2024-01-02
 venue: 'ICDE'
 slidesurl: # 'https://dominatorx.github.io/files/24KDD-s.pdf'
 paperurl: 'https://dominatorx.github.io/files/24ICDE-p.pdf'
-citation: Yushi Sun; Jiachuan Wang*; Peng Cheng; Libin Zheng*; Lei Chen; Jian Yin
+citation: Yushi Sun; <b>Jiachuan Wang</b>*; Peng Cheng; Libin Zheng*; Lei Chen; Jian Yin
 ---

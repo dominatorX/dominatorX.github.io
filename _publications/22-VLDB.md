@@ -8,5 +8,5 @@ date: 2022-01-02
 venue: 'VLDB'
 slidesurl: 'https://dominatorx.github.io/files/22VLDB-s.pdf'
 paperurl: 'https://dominatorx.github.io/files/22VLDB-p.pdf'
-citation:  Jiachuan Wang; Peng Cheng*; Libin Zheng; Lei Chen; Wenjie Zhang
+citation:  <b>Jiachuan Wang</b>; Peng Cheng*; Libin Zheng; Lei Chen; Wenjie Zhang
 ---
