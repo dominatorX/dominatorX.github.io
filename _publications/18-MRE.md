@@ -3,7 +3,7 @@ title: "Simulating stress-tunable phonon and thermal properties in heterostructu
 collection: publications
 category: manuscripts
 doi: 'https://doi.org/10.1088/2053-1591/aae40a'
-excerpt: 'This paper is published as a UG student in Zhejiang University.'
+excerpt: 'This paper was published while the author was an undergraduate student at Zhejiang University.'
 date: 2018-10-10
 venue: 'Computational Materials Science'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'

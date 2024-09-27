@@ -13,17 +13,30 @@ Dr. WANG is a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Com
 
 ## Research
 Currently, Dr. WANG is majorly working on: 
-- the analysis and optimization of Large Language Models (LLM). 
+- the analysis and optimization of Large Language Models [KDD 2024]. 
 
-He also works on Image processing including labelling and denoising; RAG and long context of LLM. 
+He also works on RAG and long context of LLM including KVcache management;
 
-His previous works including
+Image Processing including labelling [ICDE 2024], segementation, and denoising [ICCV 2023].
 
-- ANN optimization. He designed polynomial activation functions for physics simulation to capture high-order dynamics.
-- Spatiotemporal crowdsourcing. He works on the effectiveness and efficiency of ridesharing tasks based on methods of combinatorial optimization.
+His previous works include:
 
+- Spatiotemporal crowdsourcing [VLDB 2022][CIKM 2021][VLDB 2020]. He works on the effectiveness and efficiency of ridesharing tasks based on methods of combinatorial optimization.
+- ANN optimization [WSDM 2022]. He designed polynomial activation functions for chaotic system simulation to capture high-order dynamics.
+
+In addition to these works since his postgraduate research, Dr. WANG demonstrated an early aptitude for academic work. During his undergraduate studies, he published three papers [CMS 2018][MRE 2018][AIP 2019].
 ----
 [Prof. Lei CHEN]: https://www.hkust-gz.edu.cn/people/lei-chen/
 [Department of Computer Science and Engineering]: https://cse.hkust.edu.hk/
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
+[KDD 2024]: https://dominatorx.github.io/files/24KDD-p.pdf
+[ICDE 2024]: https://dominatorx.github.io/files/24ICDE-p.pdf
+[ICCV 2023]: https://dominatorx.github.io/files/23ICCV-p.pdf
+[WSDM 2022]: https://dominatorx.github.io/files/22WSDM-p.pdf
+[VLDB 2022]: https://dominatorx.github.io/files/22VLDB-p.pdf
+[CIKM 2021]: https://dominatorx.github.io/files/21CIKM-p.pdf
+[VLDB 2020]: https://dominatorx.github.io/files/20VLDB-p.pdf
+[CMS 2018]: https://dominatorx.github.io/files/18CMS-p.pdf
+[MRE 2018]: https://dominatorx.github.io/files/18MRE-p.pdf
+[AIP 2019]: https://dominatorx.github.io/files/19AIP-p.pdf
 

@@ -3,7 +3,7 @@ title: "Effects of heterogeneity and prestress field on phonon properties of sem
 collection: publications
 category: manuscripts
 doi: 'https://doi.org/10.1016/j.commatsci.2017.12.058'
-excerpt: 'This paper is published as a UG student in Zhejiang University.'
+excerpt: 'This paper was published while the author was an undergraduate student at Zhejiang University.'
 date: 2018-04-01
 venue: 'Computational Materials Science'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'

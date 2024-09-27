@@ -3,7 +3,7 @@ title: "Modeling phonon thermal conductivity in spatially confined GaN nanofilms
 collection: publications
 category: manuscripts
 doi: 'https://doi.org/10.1063/1.5079275'
-excerpt: 'This paper is published as a UG student in Zhejiang University.'
+excerpt: 'This paper was published while the author was an undergraduate student at Zhejiang University.'
 date: 2019-01-01
 venue: 'AIP Advances'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
