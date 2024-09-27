@@ -9,11 +9,11 @@ redirect_from:
 
 
 ## Biography
-Dr. WANG is a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degrees in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
+Dr. WANG is a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
 
 ## Research
 Currently, Dr. WANG is primarily working on: 
-- Tthe analysis and optimization of Large Language Models ([KDD 2024]). 
+- The analysis and optimization of Large Language Models ([KDD 2024]). 
 
 He also works on RAG and long context of LLMs including KV-cache management;
 
