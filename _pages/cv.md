@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PostDoc in Computer Science and Engineering, Hong Kong University of Science and Technology, 2024.03-now
-* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology, 2019.09-2024.01
-* B.S. in Mechatronics Engineering, Zhejiang University, 2015.09-2019.06
+* PostDoc in Computer Science and Engineering, Hong Kong University of Science and Technology, 2024.03 - now
+* Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology, 2019.09 - 2024.01
+* B.S. in Mechatronics Engineering, Zhejiang University, 2015.09 - 2019.06
 
 
 
