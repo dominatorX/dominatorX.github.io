@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-title: Home
-layout: home
----
+
+
 ## Biography
 Dr. WANG is a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degrees in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
 
