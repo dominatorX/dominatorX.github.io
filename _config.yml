@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WANG Jiachuan"
+title                    : "WANG Jiachuan\\
+王嘉川"
 title_separator          : "-"
 name                     : &name "WANG Jiachuan"
 description              : &description "homepage"
@@ -22,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "WANG Jiachuan"
+  name             : "WANG Jiachuan\\王嘉川"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in CSE"
   location         : "Hong Kong SAR, China"
