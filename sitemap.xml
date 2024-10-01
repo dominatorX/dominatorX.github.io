@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://dominatorx.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/publications/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/cv/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/24KDD-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/24ICDE-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/23ICCV-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/22VLDB-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/21CIKM-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/20VLDB-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/22WSDM-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/18CMS-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/18MRE-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/files/19AIP-p.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/sitemap</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://dominatorx.github.io/feed.xml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-10-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
