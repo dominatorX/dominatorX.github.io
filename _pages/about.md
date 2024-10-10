@@ -17,7 +17,7 @@ Currently, Dr. WANG is primarily working on:
 
 He also works on RAG and long context of LLMs including KV-cache management;
 
-Image Processing including labelling ([ICDE 2024]), segmentation, and denoising ([ICCV 2023]).
+Image Processing including labeling ([ICDE 2024]), segmentation, and denoising ([ICCV 2023]).
 
 His previous works include:
 
