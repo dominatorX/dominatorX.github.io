@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Biography
-Dr. WANG is a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
+Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He had been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
 
 ## Research
 Currently, Dr. WANG is primarily working on: 
@@ -28,6 +28,9 @@ His previous works include:
 In addition to these works since his postgraduate research, Dr. WANG demonstrated an early aptitude for academic work. During his undergraduate studies, he published three papers ([CMS 2018])([MRE 2018])([AIP 2019]).
 
 ----
+[Specially Appointed Assistant Professor]: https://www.slis.tsukuba.ac.jp/grad/english/research/staff_e/principles-e/4216.html
+[Institute of Library, Information and Media Science]: https://www.slis.tsukuba.ac.jp/grad/english/Introduction/dept-e.html
+[University of Tsukuba]: https://www.tsukuba.ac.jp/en/
 [Prof. Lei CHEN]: https://www.hkust-gz.edu.cn/people/lei-chen/
 [Department of Computer Science and Engineering]: https://cse.hkust.edu.hk/
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
