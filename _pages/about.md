@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Biography
-Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He had been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
+Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
 
 ## Research
 Currently, Dr. WANG is primarily working on: 
