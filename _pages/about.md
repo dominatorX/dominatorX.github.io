@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Biography
-Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN]. 
+Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN] and [Prof. Charles W.W. NG]. 
 
 ## Research
 Currently, Dr. WANG is primarily working on: 
@@ -34,6 +34,7 @@ In addition to these works since his postgraduate research, Dr. WANG demonstrate
 [Prof. Lei CHEN]: https://www.hkust-gz.edu.cn/people/lei-chen/
 [Department of Computer Science and Engineering]: https://cse.hkust.edu.hk/
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
+[Prof. Charles W.W. NG]: https://charles-ng.hkust.edu.hk/
 [KDD 2024]: https://dominatorx.github.io/files/24KDD-p.pdf
 [ICDE 2024]: https://dominatorx.github.io/files/24ICDE-p.pdf
 [ICCV 2023]: https://dominatorx.github.io/files/23ICCV-p.pdf
