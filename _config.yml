@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "WANG Jiachuan | UT &emsp; &emsp; &nbsp; 王嘉川 | 筑波大学"
+  name             : "WANG Jiachuan | UT"
+  name_cn             : "王嘉川 | 筑波大学"
   pronouns         : # example: "she/her"  
   bio              : "Specially Appointed Assistant Professor"
   location         : "Tsukuba, Japan"
