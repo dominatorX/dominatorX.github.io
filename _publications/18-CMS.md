@@ -7,6 +7,6 @@ excerpt: 'This paper was published while the author was an undergraduate student
 date: 2018-04-01
 venue: 'Computational Materials Science'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/18CMS-p.pdf'
+paperurl: 'https://dominatorx.github.io/files/18CMS-p.pdf'
 citation:  <b>Jiachuan Wang</b>; Linli Zhu*; Wenyan Yin
 ---

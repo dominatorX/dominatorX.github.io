@@ -7,6 +7,6 @@ excerpt: 'This paper was published while the author was an undergraduate student
 date: 2019-01-01
 venue: 'AIP Advances'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/19AIP-p.pdf'
+paperurl: 'https://dominatorx.github.io/files/19AIP-p.pdf'
 citation:  Linli Zhu*; Xiaoya Tang; <b>Jiachuan Wang</b>; Yang Hou
 ---

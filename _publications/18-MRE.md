@@ -7,6 +7,6 @@ excerpt: 'This paper was published while the author was an undergraduate student
 date: 2018-10-10
 venue: 'Materials Research Express'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/18MRE-p.pdf'
+paperurl: 'https://dominatorx.github.io/files/18MRE-p.pdf'
 citation:  Xiaoya Tang; <b>Jiachuan Wang</b>; Linli Zhu*; Wenyan Yin
 ---
