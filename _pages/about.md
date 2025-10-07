@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
+<style>
+body {
+  text-align: justify;
+}
+</style>
 
 ## Biography
 
