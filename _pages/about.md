@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 
-## Biography
 <div style="text-align: justify;">
+
+## Biography
 Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN] and [Prof. Charles W.W. NG]. 
-</div>
+
 
 ## Research
-<div style="text-align: justify;">
 Dr. WANG has been working on "Building Human‑Cognition-Inspired Data Pipeline for AI," offering data-centric solutions to bridge current AI-user gaps. Our focus is on data preparation for frontier Large Language Models, KV cache, and vector databases to improve application effectiveness across various areas. Rather than simply enhancing specific metrics, we enrich AI models with human intuition from a data perspective, including:
-</div>
 
 - Data labeling / enhancement: [Sci. Data], [ICDE 2024], [ICCV 2023]
 
@@ -49,3 +48,4 @@ Dr. WANG has been working on "Building Human‑Cognition-Inspired Data Pipeline 
 [MRE 2018]: https://dominatorx.github.io/files/18MRE-p.pdf
 [AIP 2019]: https://dominatorx.github.io/files/19AIP-p.pdf
 
+</div>
