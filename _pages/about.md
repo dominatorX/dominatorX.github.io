@@ -19,21 +19,7 @@ Dr. WANG has been working on "Building Human‑Cognition-Inspired Data Pipeline 
 - Data structuring / indexing: [ICLR 2025], [arxiv ActQKV], [VLDB 2022], [CIKM 2021], [VLDB 2020]
 
 - Data grounding / reasoning: [KDD 2024], [arxiv L2E], [arxiv PLM], [arxiv Desi], [WSDM 2022]
-<!-- Currently, Dr. WANG is primarily working on: 
-- The analysis and optimization of Large Language Models ([KDD 2024]). 
 
-He also works on RAG and long context of LLMs including KV-cache management;
-
-Image Processing including labeling ([ICDE 2024]), segmentation, and denoising ([ICCV 2023]).
-
-His previous works include:
-
-- Spatiotemporal crowdsourcing ([VLDB 2022])([CIKM 2021])([VLDB 2020]). He works on the effectiveness and efficiency of ridesharing tasks based on methods of combinatorial optimization.
-- ANN optimization ([WSDM 2022]). He designed polynomial activation functions for chaotic system simulation to capture high-order dynamics.
-
-
-In addition to these works since his postgraduate research, Dr. WANG demonstrated an early aptitude for academic work. During his undergraduate studies, he published three papers ([CMS 2018])([MRE 2018])([AIP 2019]).
--->
 ----
 [Specially Appointed Assistant Professor]: https://www.slis.tsukuba.ac.jp/grad/english/research/staff_e/principles-e/4216.html
 [Institute of Library, Information and Media Science]: https://www.slis.tsukuba.ac.jp/grad/english/Introduction/dept-e.html
