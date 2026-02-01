@@ -7,28 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-body {
-  text-align: justify;
-}
-</style>
 
 ## Biography
-
 Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST).  Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN] and [Prof. Charles W.W. NG]. 
 
-
-
 ## Research
-
 Dr. WANG has been working on "Building Human‑Cognition-Inspired Data Pipeline for AI," offering data-centric solutions to bridge current AI-user gaps. Our focus is on data preparation for frontier Large Language Models, KV cache, and vector databases to improve application effectiveness across various areas. Rather than simply enhancing specific metrics, we enrich AI models with human intuition from a data perspective, including:
 
-- Data labeling / enhancement: [ICDE 2026], [Sci. Data], [ICDE 2024], [ICCV 2023]
+- Data labeling / enhancement: [Sci. Data], [ICDE 2024], [ICCV 2023]
 
 - Data structuring / indexing: [ICLR 2025], [arxiv ActQKV], [VLDB 2022], [CIKM 2021], [VLDB 2020]
 
-- Data grounding / reasoning: [ICLR 2026], [KDD 2024], [arxiv L2E], [arxiv PLM], [WSDM 2026], [WSDM 2022]
+- Data grounding / reasoning: [KDD 2024], [arxiv L2E], [arxiv PLM], [arxiv Desi], [WSDM 2022]
+<!-- Currently, Dr. WANG is primarily working on: 
+- The analysis and optimization of Large Language Models ([KDD 2024]). 
 
+He also works on RAG and long context of LLMs including KV-cache management;
+
+Image Processing including labeling ([ICDE 2024]), segmentation, and denoising ([ICCV 2023]).
+
+His previous works include:
+
+- Spatiotemporal crowdsourcing ([VLDB 2022])([CIKM 2021])([VLDB 2020]). He works on the effectiveness and efficiency of ridesharing tasks based on methods of combinatorial optimization.
+- ANN optimization ([WSDM 2022]). He designed polynomial activation functions for chaotic system simulation to capture high-order dynamics.
+
+
+In addition to these works since his postgraduate research, Dr. WANG demonstrated an early aptitude for academic work. During his undergraduate studies, he published three papers ([CMS 2018])([MRE 2018])([AIP 2019]).
+-->
 ----
 [Specially Appointed Assistant Professor]: https://www.slis.tsukuba.ac.jp/grad/english/research/staff_e/principles-e/4216.html
 [Institute of Library, Information and Media Science]: https://www.slis.tsukuba.ac.jp/grad/english/Introduction/dept-e.html
@@ -37,12 +42,10 @@ Dr. WANG has been working on "Building Human‑Cognition-Inspired Data Pipeline 
 [Department of Computer Science and Engineering]: https://cse.hkust.edu.hk/
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
 [Prof. Charles W.W. NG]: https://charles-ng.hkust.edu.hk/
-[WSDM 2026]: https://arxiv.org/pdf/2408.06717  
+[arxiv Desi]: https://arxiv.org/pdf/2408.06717  
 [arxiv L2E]: https://arxiv.org/pdf/2503.23298
 [arxiv ActQKV]: https://arxiv.org/pdf/2502.13542
 [arxiv PLM]: https://arxiv.org/pdf/2503.12167
-[ICLR 2026]: https://openreview.net/pdf?id=0RdAmwfVku
-[ICDE 2026]: https://dominatorx.github.io/files/26ICDE-p.pdf
 [ICLR 2025]: https://dominatorx.github.io/files/25ICLR-p.pdf
 [KDD 2024]: https://dominatorx.github.io/files/24KDD-p.pdf
 [ICDE 2024]: https://dominatorx.github.io/files/24ICDE-p.pdf
