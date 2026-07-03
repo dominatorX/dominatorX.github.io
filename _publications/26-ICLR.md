@@ -7,6 +7,6 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2026-01-04
 venue: 'ICLR'
 slidesurl: # 'https://dominatorx.github.io/files/25KDD-s.pdf'
-paperurl: # 'https://dominatorx.github.io/files/26ICLR-p.pdf'
+paperurl: 'https://dominatorx.github.io/files/26ICLR-VoG-p.pdf'
 citation:  Wenxin Zhao, <b>Jiachuan Wang*</b>, Yongqi Zhang, Shuangyin Li, Cheng Deng, Jun Wang, Lei Chen.
 ---
