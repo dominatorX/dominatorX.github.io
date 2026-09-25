@@ -2,7 +2,7 @@
 title: "BubbleRAG: Interactive Cognitive Offloading with Thought Bubble in Retrieval-Augmented Generation."
 collection: publications
 category: conferences
-doi: 'https://aclanthology.org/2026.findings-acl.2163/'
+doi: 'https://doi.org/10.18653/v1/2026.findings-acl.2163'
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-01-08
 venue: 'Findings of ACL'

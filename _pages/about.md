@@ -37,25 +37,25 @@ Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable 
 [Department of Computer Science and Engineering]: https://cse.hkust.edu.hk/
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
 [Prof. Charles W.W. NG]: https://charles-ng.hkust.edu.hk/
-[Findings of ACL 2026]: https://aclanthology.org/2026.findings-acl.2163/
+[Findings of ACL 2026]: https://doi.org/10.18653/v1/2026.findings-acl.2163
 [CVPR Findings 2026]: https://openaccess.thecvf.com/content/CVPR2026F/html/Guo_PaM-MIL_Proliferation_and_Metastasis_Enhanced_Localization_for_Multiple_Instance_Learning_CVPRF_2026_paper.html
 [ICML 2026 Model Design]: https://icml.cc/virtual/2026/poster/65891
 [ICML 2026 Dialogue]: https://icml.cc/virtual/2026/poster/63188
-[WSDM 2026]: https://arxiv.org/pdf/2408.06717
+[WSDM 2026]: https://doi.org/10.1145/3773966.3777982
 [arxiv L2E]: https://arxiv.org/pdf/2503.23298
 [arxiv ActQKV]: https://arxiv.org/pdf/2502.13542
 [arxiv PLM]: https://arxiv.org/pdf/2503.12167
 [ICLR 2026]: https://openreview.net/pdf?id=0RdAmwfVku
-[ICDE 2026]: https://dominatorx.github.io/files/26ICDE-p.pdf
-[ICLR 2025]: https://dominatorx.github.io/files/25ICLR-p.pdf
-[KDD 2024]: https://dominatorx.github.io/files/24KDD-p.pdf
-[ICDE 2024]: https://dominatorx.github.io/files/24ICDE-p.pdf
-[Sci. Data]: https://www.nature.com/articles/s41597-025-05037-1
-[ICCV 2023]: https://dominatorx.github.io/files/23ICCV-p.pdf
-[WSDM 2022]: https://dominatorx.github.io/files/22WSDM-p.pdf
-[VLDB 2022]: https://dominatorx.github.io/files/22VLDB-p.pdf
-[CIKM 2021]: https://dominatorx.github.io/files/21CIKM-p.pdf
-[VLDB 2020]: https://dominatorx.github.io/files/20VLDB-p.pdf
-[CMS 2018]: https://dominatorx.github.io/files/18CMS-p.pdf
-[MRE 2018]: https://dominatorx.github.io/files/18MRE-p.pdf
-[AIP 2019]: https://dominatorx.github.io/files/19AIP-p.pdf
+[ICDE 2026]: https://doi.org/10.1109/ICDE65706.2026.00056
+[ICLR 2025]: https://openreview.net/pdf?id=49fIu0yDJ4
+[KDD 2024]: https://doi.org/10.1145/3637528.3671776
+[ICDE 2024]: https://doi.org/10.1109/icde60146.2024.00026
+[Sci. Data]: https://doi.org/10.1038/s41597-025-05037-1
+[ICCV 2023]: https://doi.org/10.1109/iccv51070.2023.01469
+[WSDM 2022]: https://doi.org/10.1145/3488560.3498448
+[VLDB 2022]: https://doi.org/10.14778/3565838.3565849
+[CIKM 2021]: https://doi.org/10.1145/3459637.3482288
+[VLDB 2020]: https://doi.org/10.14778/3384345.3384348
+[CMS 2018]: https://doi.org/10.1016/j.commatsci.2017.12.058
+[MRE 2018]: https://doi.org/10.1088/2053-1591/aae40a
+[AIP 2019]: https://doi.org/10.1063/1.5079275

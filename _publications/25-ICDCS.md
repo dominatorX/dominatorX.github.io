@@ -2,7 +2,7 @@
 title: "D-MGN: A Distributed Mesh Graph Neural Network for Scalable Engineering Simulation."
 collection: publications
 category: conferences
-doi: 'https://icdcs2025.icdcs.org/accepted-papers/'
+doi: 'https://doi.org/10.1109/ICDCSW63273.2025.00044'
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-02
 venue: 'ICDCS (Industry Event)'
