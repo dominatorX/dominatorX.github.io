@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Home"
+seo_title: "WANG Jiachuan (王嘉川) | University of Tsukuba (筑波大学)"
+description: "WANG Jiachuan (王嘉川), Specially Appointed Assistant Professor at the University of Tsukuba (日本筑波大学). Research in databases, large language models and reliable AI."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,17 +13,22 @@ redirect_from:
 body {
   text-align: justify;
 }
+.zh-annotation {
+  display: inline-block;
+  text-align: left;
+  white-space: nowrap;
+}
 </style>
 
 ## Biography
 
-Dr. WANG is a [Specially Appointed Assistant Professor] in the [Institute of Library, Information and Media Science] at the [University of Tsukuba]. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] (HKUST). Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN] and [Prof. Charles W.W. NG].
+Dr. WANG Jiachuan <span class="zh-annotation" lang="zh-Hans">(王嘉川)</span> is a [Specially Appointed Assistant Professor] <span class="zh-annotation" lang="zh-Hans">(特任助理教授)</span> in the [Institute of Library, Information and Media Science] at the [University of Tsukuba] <span class="zh-annotation" lang="zh-Hans">(日本筑波大学)</span>. He has been a Post-Doctoral Fellow of [Prof. Lei CHEN] in the [Department of Computer Science and Engineering] (CSE) at the [Hong Kong University of Science and Technology] <span class="zh-annotation" lang="zh-Hans">(香港科技大学, HKUST)</span>. Prior to that, he obtained his bachelor's degree in Mechatronics Engineering from Zhejiang University (2019.06), and subsequently completed his doctoral degree in Computer Science and Engineering from HKUST (2024.01), under the supervision of [Prof. Lei CHEN] and [Prof. Charles W.W. NG].
 
 
 
 ## Research
 
-Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable AI. His work develops data-centric methods that make foundation-model applications more effective, efficient, and grounded in domain knowledge. The research covers how data is labeled, structured, retrieved, compressed, and verified for Large Language Models, multimodal AI, vector databases, and knowledge graphs. Recent directions include:
+Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable AI. His work develops data-centric methods that make foundation-model applications more effective, efficient, and grounded in domain knowledge. The research covers how data is labeled, structured, retrieved, compressed, and verified for Large Language Models <span class="zh-annotation" lang="zh-Hans">(大语言模型)</span>, multimodal AI, vector databases <span class="zh-annotation" lang="zh-Hans">(向量数据库)</span>, and knowledge graphs <span class="zh-annotation" lang="zh-Hans">(知识图谱)</span>. Recent directions include:
 
 - Data labeling / enhancement: [ICDE 2026], [CVPR Findings 2026], [Sci. Data], [ICDE 2024], [ICCV 2023]
 
