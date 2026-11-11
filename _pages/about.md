@@ -34,7 +34,7 @@ Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable 
 
 - Data structuring / indexing: [ICML 2026 Model Design], [ICLR 2025], [arxiv ActQKV], [VLDB 2022], [CIKM 2021], [VLDB 2020]
 
-- Data grounding / reasoning: [ICLR 2026], [ICML 2026 Dialogue], [Findings of ACL 2026], [KDD 2024], [WSDM 2026], [arxiv L2E], [arxiv PLM], [WSDM 2022]
+- Data grounding / reasoning: [ICLR 2026], [ICML 2026 Dialogue], [Findings of EMNLP 2026], [Findings of ACL 2026], [KDD 2024], [WSDM 2026], [arxiv L2E], [arxiv PLM], [WSDM 2022]
 
 ----
 [Specially Appointed Assistant Professor]: https://www.slis.tsukuba.ac.jp/grad/english/research/staff_e/principles-e/4216.html
@@ -46,6 +46,7 @@ Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable 
 [Prof. Charles W.W. NG]: https://charles-ng.hkust.edu.hk/
 [Findings of ACL 2026]: https://doi.org/10.18653/v1/2026.findings-acl.2163
 [ACM MM 2026]: https://doi.org/10.1145/3767308.3836235
+[Findings of EMNLP 2026]: https://doi.org/10.18653/2026.findings-emnlp.2452
 [CVPR Findings 2026]: https://openaccess.thecvf.com/content/CVPR2026F/html/Guo_PaM-MIL_Proliferation_and_Metastasis_Enhanced_Localization_for_Multiple_Instance_Learning_CVPRF_2026_paper.html
 [ICML 2026 Model Design]: https://icml.cc/virtual/2026/poster/65891
 [ICML 2026 Dialogue]: https://icml.cc/virtual/2026/poster/63188
