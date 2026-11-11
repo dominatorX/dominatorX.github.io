@@ -30,7 +30,7 @@ Dr. WANG Jiachuan <span class="zh-annotation" lang="zh-Hans">(王嘉川)</span> 
 
 Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable AI. His work develops data-centric methods that make foundation-model applications more effective, efficient, and grounded in domain knowledge. The research covers how data is labeled, structured, retrieved, compressed, and verified for Large Language Models <span class="zh-annotation" lang="zh-Hans">(大语言模型)</span>, multimodal AI, vector databases <span class="zh-annotation" lang="zh-Hans">(向量数据库)</span>, and knowledge graphs <span class="zh-annotation" lang="zh-Hans">(知识图谱)</span>. Recent directions include:
 
-- Data labeling / enhancement: [ICDE 2026], [CVPR Findings 2026], [Sci. Data], [ICDE 2024], [ICCV 2023]
+- Data labeling / enhancement: [ACM MM 2026], [ICDE 2026], [CVPR Findings 2026], [Sci. Data], [ICDE 2024], [ICCV 2023]
 
 - Data structuring / indexing: [ICML 2026 Model Design], [ICLR 2025], [arxiv ActQKV], [VLDB 2022], [CIKM 2021], [VLDB 2020]
 
@@ -45,6 +45,7 @@ Dr. WANG's research builds Human-Cognition-Inspired Data Pipelines for reliable 
 [Hong Kong University of Science and Technology]: https://hkust.edu.hk/
 [Prof. Charles W.W. NG]: https://charles-ng.hkust.edu.hk/
 [Findings of ACL 2026]: https://doi.org/10.18653/v1/2026.findings-acl.2163
+[ACM MM 2026]: https://doi.org/10.1145/3767308.3836235
 [CVPR Findings 2026]: https://openaccess.thecvf.com/content/CVPR2026F/html/Guo_PaM-MIL_Proliferation_and_Metastasis_Enhanced_Localization_for_Multiple_Instance_Learning_CVPRF_2026_paper.html
 [ICML 2026 Model Design]: https://icml.cc/virtual/2026/poster/65891
 [ICML 2026 Dialogue]: https://icml.cc/virtual/2026/poster/63188
